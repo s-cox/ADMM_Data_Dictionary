@@ -39,41 +39,41 @@ Linear
 
 ## Data Catalogue
 
-Date of Installation
-Departure - DAS ID
-Expected Service Life
-Additional Information
-CE Certificate Reference Number
-End Chainage
-End Date
-Hazard (reason for asset)
-Length
-Location Text
-Manufacturer
-Material
-Owner
-Product Name/ID
-Section
-Start Chainage
-Start Date
-Suicide Prevention Objective
-X End (Easting)
-X Start (Easting)
-XSP
-Y End (Northing)
-Y Start (Northing)
-Maintenance Contractor
-Maintenance Responsibility
-Area/Region
-Defect Liability Period
-RRPG_1
-RRPG_2
-RRPG_3
-RRPG_4
-Source ID
-System ID
-![image](https://user-images.githubusercontent.com/83952328/210577797-91e437fe-18a3-404e-847b-150b5a550a93.png)
-
+| Asset Data Category | Attribute Name                  | Attribute Description                                                                                                                                                                                     |
+|---------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Construct           | Date of Installation            | The date the asset was installed on site; applicable to prefabricated items manufactured off-site. This should take the form DD-MON-YYYY.                                                                 |
+| Construct           | Departure - DAS ID              | The unique identifier within the WebDAS system corresponding to an approved Departure from Standard.                                                                                                      |
+| Construct           | Expected Service Life           | The time period during which the asset is expected to remain suitable for its intended use.                                                                                                               |
+| Inventory           | Additional Information          | A text note to provide specific information about an asset, in cases where an attribute value is set to "Other".                                                                                          |
+| Inventory           | CE Certificate Reference Number |                                                                                                                                                                                                           |
+| Inventory           | End Chainage                    | The along carriageway position corresponding to the termination of a linear or polygon asset, as measured within the section.                                                                             |
+| Inventory           | End Date                        | The date from which the asset ceases to be recognised under maintenance.  Note: a record of retirement will be populated. Should take the form DD-MON-YYYY.                                               |
+| Inventory           | Hazard (reason for asset)       | Defines the reason for the installation of a guard rail (i.e. e. any potential hazards to pedestrians).                                                                                                   |
+| Inventory           | Length                          |                                                                                                                                                                                                           |
+| Inventory           | Location Text                   | A text note to describe the local position of the asset, in generic terms.                                                                                                                                |
+| Inventory           | Manufacturer                    | The manufacturer of the asset.                                                                                                                                                                            |
+| Inventory           | Material                        | Defines the material used to develop the asset.                                                                                                                                                           |
+| Inventory           | Owner                           |                                                                                                                                                                                                           |
+| Inventory           | Product Name/ID                 |                                                                                                                                                                                                           |
+| Inventory           | Section                         | Section referencing is used to divide the network into sections. Further information can be found in section 4 of the Part 2 - Requirements and Additional Information document.                          |
+| Inventory           | Start Chainage                  | The along carriageway position corresponding to the beginning of a linear or polygon asset, as measured within the section.                                                                               |
+| Inventory           | Start Date                      | The date from which the asset is recognised in under maintenance. Should take the form DD-MON-YYYY.                                                                                                       |
+| Inventory           | Suicide Prevention Objective    | Is this item serving a suicide prevention objective? (i.e. e. a normal, unaltered asset supporting a suicide prevention strategy).                                                                        |
+| Inventory           | X End (Easting)                 | OS Easting coordinate, at the end of the asset.                                                                                                                                                           |
+| Inventory           | X Start (Easting)               | OS Easting coordinate, at the beginning of the asset.                                                                                                                                                     |
+| Inventory           | XSP                             | Defines the location of the asset across the carriageway.                                                                                                                                                 |
+| Inventory           | Y End (Northing)                | OS Northing coordinate, at the end of the asset.                                                                                                                                                          |
+| Inventory           | Y Start (Northing)              | OS Northing coordinate, at the beginning of the asset.                                                                                                                                                    |
+| Maintenance         | Maintenance Contractor          | Contractor responsible for maintenance of the asset. Should only be recorded if HE is responsible for the assets maintenance.                                                                             |
+| Maintenance         | Maintenance Responsibility      | The organisation responsible for the maintenance of the asset.                                                                                                                                            |
+| Operate             | Area/Region                     |                                                                                                                                                                                                           |
+| Operate             | Defect Liability Period         | The end date of the supplier assurance period. Should take the form DD-MON-YYYY.                                                                                                                          |
+| Rules               | RRPG_1                          | Visi-rail will have staggered vertical infill bars and are available in various patterns/configurations. Plain rails will have all vertical infill bars aligned in a straight line.                       |
+| Rules               | RRPG_2                          | Pedestrian guard rails which occur in the central reserve of dual carriageways which are common to both sections are be recorded in the nominated section ONLY,.                                          |
+| Rules               | RRPG_3                          | Pedestrian guard rails which are located in the central reserve or central island and are not common to both sections are to recorded in the section to which they pertain and not the nominated section. |
+| Rules               | RRPG_4                          | A pedestrian guardrails associated with a footway should be recorded in the cross-sectional position of the footway (left or right).                                                                      |
+| System              | Source ID                       | Supplier's external reference ID (scheme, major project, survey etc.).                                                                                                                                    |
+| System              | System ID                       | The unique identity code for this item in its current prime system.                                                                                                                                       |
 
 ## Note
 Notes to be inserted here, possibly with graphics and photos
