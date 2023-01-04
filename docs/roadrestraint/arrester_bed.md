@@ -31,7 +31,8 @@ SL_80_35_04
 Polygon
 
 ## Data Catalogue
-| **Asset Data Category** | **Attribute Name**         | **Attribute Description**                                                                                                                                                                                                                                                                                                                                                 |
+
+| Asset Data Category     | Attribute Name     | Attribute Description                                                                                                                                                                                                                                                                                                                                                |
 |-------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Construct               | Date of Construction       | The date the asset was constructed; applicable to items built on-site. This should take the form DD-MON-YYYY.                                                                                                                                                                                                                                                             |
 | Construct               | Departure - DAS ID         | The unique identifier within the WebDAS system corresponding to an approved Departure from Standard.                                                                                                                                                                                                                                                                      |
@@ -62,7 +63,6 @@ Polygon
 | Rules                   | RRAB_5                     | An arrester bed is normally located immediately adjacent to (but segregated from) the carriageway. If they are located on the left, they should be recorded in the cross-sectional position L1, L2 etc. and if located on the right then they are recorded in R1, R2 etc.                                                                                                 |
 | System                  | Source ID                  | Supplier's external reference ID (scheme, major project, survey etc.).                                                                                                                                                                                                                                                                                                    |
 | System                  | System ID                  | The unique identity code for this item in its current prime system.                                                                                                                                                                                                                                                                                                       |
-
 
 ## Note
 Notes to be inserted here, possibly with graphics and photos
