@@ -33,5 +33,44 @@ Ss_25_16_94_95
 ## Geometry
 Polygon
 
+## Data Catalogue
+Date of Installation
+Departure - DAS ID
+Expected Service Life
+Additional Information
+Area
+CE Certificate Reference Number
+Connected Parapet
+End Chainage
+End Date
+Exit Box Class (Z)
+Ground Surface Type
+Hazard (reason for asset)
+Impact Severity Level (ISL)
+Location Text
+Manufacturer
+Owner
+Performance Level
+Permanent Lateral Display Zone Character (PLDZ)
+Product Name/ID
+Section
+Start Chainage
+Start Date
+X End (Easting)
+X Start (Easting)
+XSP
+Y End (Northing)
+Y Start (Northing)
+Maintenance Contractor
+Maintenance Responsibility
+Area/Region
+Defect Liability Period
+RRCC_1
+RRCC_2
+RRCC_3
+RRCC_4
+Source ID
+System ID
+
 ## Note
 Notes to be inserted here, possibly with graphics and photos
