@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Attribute Templating
 
-Asset Data Attributes are populated from the ADMM Data Dictionary. Attributes may be common between numerouse Assets, such as 'Date of Construction' or 'CE Certificate Number'. Data Attributes may be mandatory or optional. For example if an asset has a CE Certificate Number, this attribute will be populated otherwise.
+Asset Data Attributes are populated from the ADMM Data Dictionary. Attributes may be common between numerous Assets, such as 'Date of Construction' or 'CE Certificate Number'. Data Attributes may be mandatory or optional. For example if an asset has a CE Certificate Number, this attribute will be populated otherwise it will be null.
 
 Each attribute will have the following mandatory fields:
 
