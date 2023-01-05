@@ -2,11 +2,10 @@
 layout: default
 title: Date of Construction
 parent: Attribute
-nav_order: 1
+nav_order: 4
 has_children: false
 ---
 
-# Date of Construction
 This asset data attribute was last updated on **04/12/2023**, this is version **1.0**
 
 Experimental
