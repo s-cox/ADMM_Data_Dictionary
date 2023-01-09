@@ -2,7 +2,7 @@
 layout: default
 title: Asset Sub Class Template
 parent: Home
-nav_order: 5
+nav_order: 3
 ---
 # Asset Sub Class Templating
 
