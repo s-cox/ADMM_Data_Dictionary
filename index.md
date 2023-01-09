@@ -10,7 +10,17 @@ This is an intial demo of how the ADMM of National Highways could be displayed u
 
 ## Versioning
 
-This is version 0.1, created 22 December 2022
+This is version 0.2, created 9 January 2023
+
+## Structure of this site
+
+Within the Home section there are templates that will help users add Asset Classes, Asset Subclasses, Assets and Attributes.
+
+On the left hand side of the page following the main Home section, Asset Classes are listed and nested within them are the Asset Subclass and Asset. 
+
+The Attribute section contains Asset Data Attributes which are populated from the ADMM Data Dictionary. Attributes may be common between numerous Assets, such as ‘Date of Construction’ or ‘CE Certificate Number’. Data Attributes may be mandatory or optional. For example if an asset has a CE Certificate Number, this attribute will be populated otherwise it will be null. 
+
+On the Asset pages there is a Data Catalogue section with links on under the Attribute Types field to the relevant Attribue section.
 
 ## NH Data Assets 
 
@@ -34,4 +44,6 @@ For each asset entry (excluding Drainage, Roadside Operational Technology and St
 
 - Asset Geometry – i.e. Point, Line, or Polygon: this corresponds to the geospatial reference data for the asset and gives an idea of the space it occupies in the real world.
     - Assets that occupy a single location are considered Point (e.g. Sign Face, Reference Marker Locations, Bollards, etc.)
+
+
 
