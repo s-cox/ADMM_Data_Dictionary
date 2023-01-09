@@ -15,3 +15,7 @@ Experimental
 
 ## Description
 The Asset Class Road Restraint covers all assets that act as a barrier to leaving or entering the carriageway.
+
+## Road Restraint Diagram
+
+![activity](/ADMM_data_dictionary/docs/roadrestraint/diagrams/Road_restraint.png)
