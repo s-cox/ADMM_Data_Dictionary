@@ -1,0 +1,9 @@
+---
+layout: default
+title: Asset Sub Class Template
+parent: Home
+nav_order: 5
+---
+# Asset Sub Class Templating
+
+This is a holding page that will later be a template on how to fill in an Asset Sub Class Entry
