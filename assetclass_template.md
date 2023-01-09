@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Component Template
+title: Asset Class Template
 parent: Home
 nav_order: 2
 ---
