@@ -2,7 +2,7 @@
 layout: default
 title: Asset Template
 parent: Home
-nav_order: 3
+nav_order: 4
 ---
 # Name of asset
 This model was last updated on **22/12/2022**, this is version **1.0**
