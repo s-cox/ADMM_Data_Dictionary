@@ -25,10 +25,10 @@ of a safety barrier, facing
 oncoming traffic.
 
 ## Asset Code
-RRCC
+``RRCC``
 
 ## UniClass
-Ss_25_16_94_95
+``Ss_25_16_94_95``
 
 ## Geometry
 Polygon

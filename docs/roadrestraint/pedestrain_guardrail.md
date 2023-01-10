@@ -29,10 +29,10 @@ vehicles (i.e. they are NOT a
 Vehicle Restraint System).
 
 ## Asset Code
-RRPG
+``RRPG``
 
 ## UniClass
-s Ss_25_15_60
+``s Ss_25_15_60``
 
 ## Geometry
 Linear
