@@ -37,6 +37,24 @@ Vehicle Restraint System).
 ## Geometry
 Linear
 
+## Asset Rules
+
+``RRPG_1``
+
+Visi-rail will have staggered vertical infill bars and are available in various patterns/configurations. Plain rails will have all vertical infill bars aligned in a straight line.
+
+``RRPG_2``
+
+Pedestrian guard rails which occur in the central reserve of dual carriageways which are common to both sections are be recorded in the nominated section ONLY.
+
+``RRPG_3``
+
+Pedestrian guard rails which are located in the central reserve or central island and are not common to both sections are to recorded in the section to which they pertain and not the nominated section.
+
+``RRPG_4``
+
+A pedestrian guardrails associated with a footway should be recorded in the cross-sectional position of the footway (left or right).
+
 ## Data Catalogue
 
 | Asset Data Category | Attribute Name                  | Attribute Description                                                                                                                                                                                     |
@@ -68,10 +86,6 @@ Linear
 | Maintenance         | [Maintenance Responsibility](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/maintenanceresponsibility.html)      | The organisation responsible for the maintenance of the asset.                                                                                                                                            |
 | Operate             | [Area/Region](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/area_region.html)                     |                                                                                                                                                                                                           |
 | Operate             | [Defect Liability Period](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/defectliabilityperiod.html)         | The end date of the supplier assurance period. Should take the form DD-MON-YYYY.                                                                                                                          |
-| Rules               | RRPG_1                          | Visi-rail will have staggered vertical infill bars and are available in various patterns/configurations. Plain rails will have all vertical infill bars aligned in a straight line.                       |
-| Rules               | RRPG_2                          | Pedestrian guard rails which occur in the central reserve of dual carriageways which are common to both sections are be recorded in the nominated section ONLY,.                                          |
-| Rules               | RRPG_3                          | Pedestrian guard rails which are located in the central reserve or central island and are not common to both sections are to recorded in the section to which they pertain and not the nominated section. |
-| Rules               | RRPG_4                          | A pedestrian guardrails associated with a footway should be recorded in the cross-sectional position of the footway (left or right).                                                                      |
 | System              | Source ID                       | Supplier's external reference ID (scheme, major project, survey etc.).                                                                                                                                    |
 | System              | System ID                       | The unique identity code for this item in its current prime system.                                                                                                                                       |
 

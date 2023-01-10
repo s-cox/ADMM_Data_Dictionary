@@ -32,18 +32,23 @@ Polygon
 
 ## Asset Rules
 ``RRAB_1``
+
 The start and end chainages are taken as the start and end of the taper from which the arrester bed develops.
 
 ``RRAB_2``
+
 The default asset Owner = National Highways. If the asset is known to be owned by an organisation other than National Highways, then this should be selected from the list instead of the default. If the owner is known, but not on the list use Owner = Other and then insert a description of the owner, e g. Communication Cabinet - Owner = Other, Description = BT.
 
 ``RRAB_3``
+
 If the verge or footway terminates over the length of the arrester bed, they should be ended and a new asset item begun on the other side of the arrester bed (if they are present).
 
 ``RRAB_4``
+
 Arrester beds will only be recorded as such if they are signed appropriately Escape Lane Ahead (TSRGD Diagram: 817 2)
 
 ``RRAB_5``
+
 An arrester bed is normally located immediately adjacent to (but segregated from) the carriageway. If they are located on the left, they should be recorded in the cross-sectional position L1, L2 etc. and if located on the right then they are recorded in R1, R2 etc.
 
 ## Data Catalogue
