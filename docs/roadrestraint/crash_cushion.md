@@ -33,6 +33,23 @@ oncoming traffic.
 ## Geometry
 Polygon
 
+## Asset Rules
+``RRCC_1``
+
+Where a crash cushion has been installed to prevent impact with an over bridge, then Hazard = Foundation/Bases/Supports.
+
+``RRCC_2``
+
+RRCC which occur in the central reserve of dual carriageways and motorways and are common to both sections MUST be recorded in the nominated section only.
+
+``RRCC_3``
+
+Ground Surface Type = Granular, unless the asset has been installed on a man made/constructed surface; in which case Ground Surface Type = Solid.
+
+``RRCC_4``
+
+Crash cushions which are located in the central reserve or central island that are not common to both sections are record in the section to which they pertain rather than the nominated section.
+
 ## Data Catalogue
 
 | Asset Data Category | Attribute Name                                  | Attribute Description                                                                                                                                                                             |
@@ -68,10 +85,6 @@ Polygon
 | Maintenance         | [Maintenance Responsibility](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/maintenanceresponsibility.html)                     | The organisation responsible for the maintenance of the asset.                                                                                                                                    |
 | Operate             | [Area/Region](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/area_region.html)                                     |                                                                                                                                                                                                   |
 | Operate             | [Defect Liability Period](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/defectliabilityperiod.html)                         | The end date of the supplier assurance period. Should take the form DD-MON-YYYY.                                                                                                                  |
-| Rules               | RRCC_1                                          | Where a crash cushion has been installed to prevent impact with an over bridge, then Hazard = Foundation/Bases/Supports.                                                                          |
-| Rules               | RRCC_2                                          | RRCC which occur in the central reserve of dual carriageways and motorways and are common to both sections MUST be recorded in the nominated section only.                                        |
-| Rules               | RRCC_3                                          | Ground Surface Type = Granular, unless the asset has been installed on a man made/constructed surface; in which case Ground Surface Type = Solid.                                                 |
-| Rules               | RRCC_4                                          | Crash cushions which are located in the central reserve or central island that are not common to both sections are record in the section to which they pertain rather than the nominated section. |
 | System              | Source ID                                       | Supplier's external reference ID (scheme, major project, survey etc.).                                                                                                                            |
 | System              | System ID                                       | The unique identity code for this item in its current prime system.                                                                                                                               |
 
