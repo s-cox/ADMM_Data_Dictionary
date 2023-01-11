@@ -11,19 +11,22 @@ Experimental
 {: .label .label-yellow }
 
 ### Model created
-Fill in date
+Add in date
 
 ## Description
-Fill in description
+Add in description
 
 ## Asset Code
-Fill in Asset Code
+Add in Asset Code
 
 ## UniClass
-Fill in UniClass
+Add in UniClass
 
 ## Geometry
-Fill in Geometry
+Add in Geometry
+
+## Asset Rules
+Add in when applicable
 
 ## Data Catalogue
 Add in fields in the table below and link Attribute Name to items in the Attribute section
