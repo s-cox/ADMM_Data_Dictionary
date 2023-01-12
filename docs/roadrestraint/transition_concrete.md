@@ -34,7 +34,7 @@ N/A
 |---------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Construct           | [Date of Installation](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/dateofinstallation.html) 
              | The date the asset was installed on site; applicable to prefabricated items manufactured off-site. This should take the form DD-MON-YYYY.                                        |
-| Construct           | D[Departure - DAS ID](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/departure.html)
+| Construct           | [Departure - DAS ID](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/departure.html)
                | The unique identifier within the WebDAS system corresponding to an approved Departure from Standard.                                                                             |
 | Construct           | Design/Drawing Number             |                                                                                                                                                                                  |
 | Construct           | [Expected Service Life](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/expectedservicelife.html) 
