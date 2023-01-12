@@ -24,6 +24,10 @@ structure or mounted on the end
 of a safety barrier, facing
 oncoming traffic.
 
+## Asset Image
+
+![activity](/ADMM_data_dictionary/docs/roadrestraint/diagrams/crash_cushion.png)
+
 ## Asset Code
 ``RRCC``
 

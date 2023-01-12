@@ -6,7 +6,6 @@ grand_parent: Road Restraint
 nav_order: 3
 ---
 
-
 # End Terminal
 This model was last updated on **11/01/2023**, this is version **1.0**
 
@@ -43,6 +42,8 @@ For data captured from remote survey only; End Terminal Type should default to P
 
 
 ## Data Catalogue
+
+For this asset there are attributes in which there can be multiple variations, such as Type.
 
 | Asset Data Category | Attribute Name                                  | Attribute Description                                                                                                                                                            |
 |---------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
