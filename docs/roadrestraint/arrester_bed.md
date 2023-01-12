@@ -21,6 +21,10 @@ road filled with a particular
 material to decelerate and
 arrest errant vehicles.
 
+## Asset Image
+
+![activity](/ADMM_data_dictionary/docs/roadrestraint/diagrams/arrester_bed.png)
+
 ## Asset Code
 ``RRAB``
 

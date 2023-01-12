@@ -28,6 +28,10 @@ to act as road restraint for
 vehicles (i.e. they are NOT a
 Vehicle Restraint System).
 
+## Asset Image
+
+![activity](/ADMM_data_dictionary/docs/roadrestraint/diagrams/pedestrian_guardrail.png)
+
 ## Asset Code
 ``RRPG``
 
@@ -56,6 +60,8 @@ Pedestrian guard rails which are located in the central reserve or central islan
 A pedestrian guardrails associated with a footway should be recorded in the cross-sectional position of the footway (left or right).
 
 ## Data Catalogue
+
+For this asset there are attributes in which there can be multiple variations, such as Material.
 
 | Asset Data Category | Attribute Name                  | Attribute Description                                                                                                                                                                                     |
 |---------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
