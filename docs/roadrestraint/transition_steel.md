@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Transition (Concrete)
+title: Transition (Steel)
 parent: Vehicle Restraint
 grand_parent: Road Restraint
-nav_order: 9
+nav_order: 10
 ---
 
 # Transition (Concrete)
@@ -19,7 +19,7 @@ Experimental
 Provides a gradual change in performance from one road restraint system to another, and to prevent the hazards of abrupt variations. 
 
 ## Asset Code
-``RRTC``
+``RRTS``
 
 ## UniClass
 N/A
@@ -42,11 +42,11 @@ N/A
 | Inventory           | [CE Certificate Reference Number](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/cecertno.html)    |                                                                                                                                                                                  |
 | Inventory           | Change in Containment Level       |                                                                                                                                                                                  |
 | Inventory           | Change in Impact Severity Level   |                                                                                                                                                                                  |
+| Inventory           | Change in Mounting Height         |                                                                                                                                                                                  |
 | Inventory           | Change in Product                 |                                                                                                                                                                                  |
 | Inventory           | Change in Vehicle Intrusion Class |                                                                                                                                                                                  |
 | Inventory           | Change in Working Width Class     |                                                                                                                                                                                  |
 | Inventory           | Connected Parapet                 | Indicates the presence of a connected parapet.                                                                                                                                   |
-| Inventory           | Drainage Hole                     | Asset has void for Drainage.                                                                                                                                                     |
 | Inventory           | [End Chainage](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/endchainage.html)                      | The along carriageway position corresponding to the termination of a linear or polygon asset, as measured within the section (see Rule RRAB_1).                                  |
 | Inventory           | [End Date](https://s-cox.github.io/ADMM_data_dictionary/docs/attribute/enddate.html)                          | The date from which the asset ceases to be recognised under maintenance.  Note: a record of retirement will be populated. Should take the form DD-MON-YYYY.                      |
 | Inventory           | Length                            |                                                                                                                                                                                  |
